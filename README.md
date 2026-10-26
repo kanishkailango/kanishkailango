@@ -552,43 +552,42 @@ Remove any line that does not apply.
 
 ---
 
-## 📈 GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Analytics
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
-</a>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
+</p>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity"/>
-</a>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
+    alt="GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+    width="49%"
+  />
+</p>
 
 ---
 
+
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
-To enable this animation, configure a GitHub Actions workflow that generates the contribution snake SVG and publishes it to an `output` branch. The image will not appear until the workflow has been set up and run successfully.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
 ---
 
