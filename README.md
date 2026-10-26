@@ -553,29 +553,23 @@ Remove any line that does not apply.
 ---
 
 
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"
-    alt="GitHub Profile Details"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"
-    alt="GitHub Statistics"
-    width="49%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"
-    alt="Languages by Repository"
-    width="49%"
-  />
-</p>
+## 🟩 GitHub Contributions
+
+[![GitHub Contributions](https://ghchart.rshah.org/YOUR_ACTUAL_USERNAME)](https://github.com/YOUR_ACTUAL_USERNAME)
+
+## 🐍 GitHub Contribution Snake
+
+![Contribution Snake](https://raw.githubusercontent.com/YOUR_ACTUAL_USERNAME/YOUR_ACTUAL_USERNAME/output/github-contribution-snake.svg)
+
 
 
 ---
