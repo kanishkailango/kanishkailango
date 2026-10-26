@@ -553,28 +553,30 @@ Remove any line that does not apply.
 ---
 
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
-    alt="GitHub Profile Summary"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"
+    alt="GitHub Profile Details"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"
     alt="GitHub Statistics"
     width="49%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5"
-    alt="Productive Time"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"
+    alt="Languages by Repository"
     width="49%"
   />
 </p>
+
 
 ---
 
@@ -583,11 +585,12 @@ Remove any line that does not apply.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-snake.svg"
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
+
 
 ---
 
