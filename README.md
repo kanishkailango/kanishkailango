@@ -537,63 +537,14 @@ flowchart TD
 
 <div align="center">
 
-### 📈 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-
 ### 🔥 Contribution Streak
 
 <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-### 📅 Contribution Activity
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
-
-
-# 🐍 GITHUB CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img width="95%" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
-
-To enable the snake, create `.github/workflows/snake.yml` in your profile repository:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: YOUR_USERNAME
-          outputs: dist/github-contribution-snake.svg
-
-      - name: Publish snake
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          publish_branch: output
-          publish_dir: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 Replace `YOUR_USERNAME`, commit the file, and run the workflow from the **Actions** tab. The snake image will appear only after the workflow successfully publishes the SVG to the `output` branch.
