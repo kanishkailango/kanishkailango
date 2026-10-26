@@ -545,7 +545,6 @@ flowchart TD
 </div>
 
 ---
-```
 
 Replace `YOUR_USERNAME`, commit the file, and run the workflow from the **Actions** tab. The snake image will appear only after the workflow successfully publishes the SVG to the `output` branch.
 
