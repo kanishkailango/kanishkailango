@@ -562,18 +562,29 @@ Remove any line that does not apply.
   />
 </p>
 
-## 🟩 GitHub Contributions
-
-[![GitHub Contributions](https://ghchart.rshah.org/YOUR_ACTUAL_USERNAME)](https://github.com/YOUR_ACTUAL_USERNAME)
-
-## 🐍 GitHub Contribution Snake
-
-![Contribution Snake](https://raw.githubusercontent.com/YOUR_ACTUAL_USERNAME/YOUR_ACTUAL_USERNAME/output/github-contribution-snake.svg)
-
-
+---
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Statistics" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    View My GitHub Repositories
+  </a>
+  |
+  <a href="https://github.com/YOUR_USERNAME?tab=stars">
+    View My Stars
+  </a>
+</p>
+
+---
 
 ## 🐍 GitHub Contribution Snake
 
@@ -583,6 +594,14 @@ Remove any line that does not apply.
     alt="GitHub Contribution Snake"
     width="100%"
   />
+</p>
+
+---
+
+## 💡 My Developer Mindset
+
+<p align="center">
+  <strong>Improve Every Day 🚀</strong>
 </p>
 
 
