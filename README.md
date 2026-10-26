@@ -532,35 +532,38 @@ flowchart TD
 
 ---
 
+
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
+### 📈 GitHub Statistics
 
-<a href="https://github.com/YOUR_USERNAME">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 
-<br/><br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
+### 🔥 Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+### 📅 Contribution Activity
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
-> These cards rely on external services and may occasionally be unavailable. The language card measures repository language composition, not personal skill level.
-
 ---
+
 
 # 🐍 GITHUB CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-snake.svg" alt="GitHub contribution snake animation"/>
+<img width="95%" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
+
 
 To enable the snake, create `.github/workflows/snake.yml` in your profile repository:
 
