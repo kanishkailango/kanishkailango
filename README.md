@@ -1,51 +1,83 @@
- <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,25:4C1D95,60:7C3AED,100:C084FC&height=250&section=header&text=KANISHKA&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=PYTHON%20DEVELOPER%20%7C%20BACKEND%20DEVELOPER%20%7C%20DATA%20ANALYTICS&descSize=17&descAlignY=57&stroke=A78BFA&strokeWidth=1"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=C4B5FD&center=true&vCenter=true&width=800&lines=Hey+there!+Welcome+to+my+GitHub+%F0%9F%91%8B;Python+%7C+Flask+%7C+PostgreSQL;Building+and+Integrating+REST+APIs;Exploring+Data+Analytics+%26+AI;Learn.+Build.+Debug.+Repeat.+%F0%9F%9A%80" alt="Animated introduction"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090979,45:302B63,100:00D4FF&text=KANISHKA&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=PYTHON%20DEVELOPMENT%20%7C%20BACKEND%20DEVELOPMENT%20%7C%20DATA%20ANALYTICS&descSize=17&descAlignY=55" width="100%" alt="Kanishka GitHub profile banner"/>
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=A855F7&labelColor=18181B" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-7C3AED?style=for-the-badge&labelColor=18181B" alt="Current status"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Kanishka+%F0%9F%91%8B;Python+%26+Backend+Development;Building+REST+APIs+with+Flask;Working+with+PostgreSQL+%26+SQL;Frontend+%2B+Backend+Integration;Exploring+Data+Analytics+%26+AI;Turning+Ideas+Into+Practical+Projects" alt="Animated introduction"/>
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+<img src="https://img.shields.io/badge/Focus-Python%20%7C%20APIs%20%7C%20Data-7F00FF?style=for-the-badge" alt="Technical focus"/>
+
+<br/><br/>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
+## 👋 About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+<table>
+<tr>
+<td width="65%" valign="top">
 
-### 👋 Hi, I'm Kanishka!
+### Hello, I'm Kanishka!
 
-I'm an aspiring developer interested in **Python programming, backend development, databases, REST APIs, and data analytics**.
+I'm interested in **Python programming, backend development, database management, REST APIs, and data analytics**.
 
-- 🐍 Learning Python and object-oriented programming.
-- ⚙️ Practicing backend development using Flask.
-- 🗄️ Working with PostgreSQL and SQL queries.
-- 🔗 Learning how to connect frontend interfaces with backend APIs.
-- 📊 Exploring data analytics and dashboard development.
-- 🧩 Improving my problem-solving and debugging skills.
-- 🚀 Building practical projects to strengthen my technical knowledge.
-- 🌱 Continuously learning new technologies and development practices.
+I enjoy learning how applications work, connecting frontend interfaces with backend services, and building practical projects that help me strengthen my technical skills.
 
-<br clear="right"/>
+- 🐍 **Programming:** Python
+- ⚙️ **Backend Development:** Flask and REST APIs
+- 🗄️ **Databases:** PostgreSQL and SQL
+- 🌐 **Frontend:** HTML, CSS, and JavaScript
+- 🔗 **Integration:** Connecting frontend interfaces with APIs
+- 📊 **Data Analytics:** SQL, data analysis, and dashboards
+- 📈 **Visualization:** Exploring Power BI and Streamlit
+- 🚀 **Development Approach:** Learn by building practical projects
+- 🎯 **Career Interests:** Python Development, Backend Development, and Data Analytics
 
-### 🎯 My Developer Philosophy
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Backend-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Data-Analytics-7F00FF?style=flat-square" alt="Data analytics"/>
+
+</td>
+</tr>
+</table>
+
+### 🎯 My Career Objective
+
+To develop strong software development and analytical skills by building practical applications, working with databases, creating APIs, and exploring data-driven solutions.
+
+My goal is to contribute to real-world projects, improve my problem-solving abilities, and grow professionally in Python development, backend engineering, or data analytics.
+
+### 💡 My Developer Mindset
 
 <div align="center">
 
@@ -55,319 +87,500 @@ I'm an aspiring developer interested in **Python programming, backend developmen
 
 ```yaml
 name: Kanishka
-education: Add your actual degree
-location: India
-primary_language: Python
 
 interests:
+  - Python Development
   - Backend Development
   - REST API Development
   - Database Management
+  - Frontend Integration
   - Data Analytics
   - Artificial Intelligence
 
-currently_learning:
+technologies:
   - Python
   - Flask
   - PostgreSQL
-  - Frontend and Backend Integration
-  - FastAPI
+  - SQL
+  - HTML
+  - CSS
+  - JavaScript
 
-mindset: "Every error is an opportunity to learn."
+mindset: "Learn by building. Improve through practice."
 ```
 
 ---
 
-<h2 align="center">💜 MY TECH ARSENAL 💜</h2>
+## 🎓 Education
 
-<h3 align="center">⌨️ Programming Languages</h3>
+> Replace the placeholders below with your actual education details.
+
+| Detail | Information |
+|---|---|
+| Degree | YOUR_DEGREE |
+| Specialization | YOUR_SPECIALIZATION |
+| College / University | YOUR_COLLEGE |
+| Graduation Year | YOUR_GRADUATION_YEAR |
+| Relevant Coursework | Python, Databases, Software Development, Data Analytics |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Programming language icons"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-Intermediate%20Practice-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Continuous-Learning-7F00FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Continuous learning"/>
+<img src="https://img.shields.io/badge/Focus-Practical%20Projects-00D4FF?style=for-the-badge" alt="Practical projects"/>
 
 </div>
 
-<h3 align="center">🎨 Frontend Development</h3>
+---
+
+## 💻 Technical Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend technology icons"/>
+### Programming Languages
 
-</div>
-
-<h3 align="center">⚙️ Backend Development</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" alt="Backend framework icons"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/REST%20API-Endpoint%20Development-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/CRUD-Create%20Read%20Update%20Delete-9333EA?style=for-the-badge" alt="CRUD operations"/>
-
-</div>
-
-<h3 align="center">🗄️ Databases</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Database icons"/>
-
-</div>
-
-<h3 align="center">📊 Data Analytics & Visualization</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL-Data%20Extraction-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Streamlit-Interactive%20Dashboards-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-
-</div>
-
-<h3 align="center">🛠️ Developer Tools</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux&theme=dark" alt="Developer tool icons"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js&perline=6&theme=dark" alt="Programming and web technologies"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Terminal-Command%20Line-18181B?style=flat-square&logo=windows-terminal&logoColor=white" alt="Terminal"/>
-<img src="https://img.shields.io/badge/API%20Testing-HTTP%20Requests-7C3AED?style=flat-square" alt="API testing"/>
-<img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend development"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-Web%20Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-Responsive%20Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-Frontend%20Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi&theme=dark" alt="Backend technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Flask-Python%20Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/REST%20API-Endpoint%20Development-009688?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/CRUD-Database%20Operations-7F00FF?style=for-the-badge" alt="CRUD operations"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Database technologies"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database%20Management-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQL-Query%20Writing-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+
+### Data Analytics and Visualization
+
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-Insights-7F00FF?style=for-the-badge" alt="Data analysis"/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux&theme=dark" alt="Development tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-Development%20Environment-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 
 </div>
 
 ---
 
-<h2 align="center">🚀 MY DEVELOPMENT JOURNEY</h2>
+## 📋 Skills Overview
+
+| Category | Technologies and Topics |
+|---|---|
+| Programming | Python |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Flask, REST APIs |
+| Databases | PostgreSQL, SQL |
+| API Operations | GET, POST, PUT, DELETE |
+| Data Management | CRUD operations, database queries |
+| Integration | Frontend and backend communication |
+| Data Analytics | SQL analysis, dashboards, data exploration |
+| Visualization | Power BI, Streamlit |
+| Development Tools | Git, GitHub, VS Code |
+| Core Skills | Problem solving, debugging, logical thinking |
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/PROJECTS-Learn%20%7C%20Build%20%7C%20Improve-00D4FF?style=for-the-badge" alt="Project development"/>
+
+</div>
+
+### 01. Customer Management System
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square" alt="REST API"/>
+
+</div>
+
+**Project Overview**
+
+A customer management application built to practice backend development, database integration, and REST API operations.
+
+The application focuses on managing customer records through a backend service connected to a database.
+
+**Key Features**
+
+- 📋 Retrieve customer records.
+- ➕ Create customer records.
+- ✏️ Update existing customer information.
+- 🗑️ Delete customer records.
+- 🗄️ Store and retrieve information from PostgreSQL.
+- 🔗 Connect API endpoints to database operations.
+- 🧪 Test endpoints using HTTP requests.
+- 🌐 Integrate backend functionality with a user interface.
+
+**API Methods**
+
+| Method | Purpose |
+|---|---|
+| GET | Retrieve customer information |
+| POST | Create a customer |
+| PUT | Update an existing customer |
+| DELETE | Delete a customer |
+
+**Technology Stack**
+
+`Python` `Flask` `PostgreSQL` `SQL` `REST API`
+
+**Project Workflow**
 
 ```text
-                    MY ROADMAP
-                        │
-                        ▼
-              🐍 Python Fundamentals
-                        │
-                        ▼
-              🧱 Object-Oriented Programming
-                        │
-                        ▼
-              🗄️ SQL & PostgreSQL
-                        │
-                        ▼
-              ⚙️ Flask & REST APIs
-                        │
-                        ▼
-              🔗 Frontend + Backend Integration
-                        │
-                        ▼
-              📊 Data Analysis & Visualization
-                        │
-                        ▼
-              🚀 Real-World Applications
-                        │
-                        ▼
-              💼 Professional Growth
+User Interface
+      |
+      v
+HTTP Request
+      |
+      v
+Flask API Endpoint
+      |
+      v
+Backend Validation
+      |
+      v
+PostgreSQL Database
+      |
+      v
+API Response
+      |
+      v
+Display Result in UI
 ```
-
-</div>
-
-### 📚 Skills I'm Strengthening
-
-| Area | Learning Focus |
-|---|---|
-| Python | Functions, modules, OOP, exception handling |
-| Backend | Flask, routing, request handling, JSON responses |
-| REST APIs | GET, POST, PUT, DELETE, status codes |
-| Databases | SQL, PostgreSQL, CRUD operations |
-| Frontend | HTML, CSS, JavaScript, responsive layouts |
-| Integration | Connecting interfaces to API endpoints |
-| Data Analytics | Data exploration, SQL analysis, dashboards |
-| Development Tools | Git, GitHub, VS Code, terminal commands |
-
-### 🔭 Current Learning Goals
-
-- [ ] Strengthen Python and OOP fundamentals.
-- [ ] Build REST APIs with complete CRUD functionality.
-- [ ] Improve PostgreSQL database design and query writing.
-- [ ] Integrate frontend pages with backend APIs.
-- [ ] Build responsive and user-friendly web interfaces.
-- [ ] Create a complete data analytics dashboard.
-- [ ] Learn automated testing and API documentation.
-- [ ] Deploy projects and document them professionally.
-
----
-
-<h2 align="center">🔥 FEATURED PROJECTS 🔥</h2>
-
-<p align="center">
-<i>Practical projects focused on solving problems, developing skills, and learning through implementation.</i>
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">👥 Customer Management API</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-</div>
-
-A backend application for managing customer information through REST API endpoints.
-
-**Features**
-- 📥 Retrieve customer records.
-- ➕ Create new customer records.
-- ✏️ Update existing records.
-- 🗑️ Delete customer records.
-- 🗄️ Connect API endpoints to PostgreSQL.
-- 🔄 Practice complete CRUD operations.
-
-**Technologies:** Python, Flask, PostgreSQL, SQL, REST APIs.
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/CUSTOMER_PROJECT_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Customer API project"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="View customer management project"/>
 </a>
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-<h3 align="center">🔗 Frontend & Backend Integration</h3>
+### 02. Frontend and Backend API Integration
 
 <div align="center">
-<img src="https://img.shields.io/badge/Flask-Backend-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+
 </div>
 
-A web application focused on connecting a user interface with backend services and displaying API data.
+**Project Overview**
 
-**Features**
-- 🌐 Serve HTML pages through Flask.
-- 📡 Fetch data from API endpoints.
-- 📋 Display API responses in the interface.
-- 🔄 Connect frontend actions to backend routes.
-- ⚠️ Handle request failures and errors.
-- 🧩 Understand frontend/backend communication.
+A web application project focused on connecting a frontend interface to backend API endpoints and displaying information dynamically.
 
-**Technologies:** Python, Flask, HTML, CSS, JavaScript, REST APIs.
+**Key Features**
+
+- 🌐 Serve frontend pages through Flask.
+- 📡 Send requests to backend API endpoints.
+- 📋 Retrieve and display data.
+- 🔄 Connect UI actions to API methods.
+- ⚠️ Handle API errors and unsuccessful responses.
+- 🧩 Understand the communication between frontend and backend services.
+
+**Technology Stack**
+
+`HTML` `CSS` `JavaScript` `Python` `Flask` `REST API`
+
+**Project Workflow**
+
+```text
+User Action
+     |
+     v
+Frontend Interface
+     |
+     v
+JavaScript HTTP Request
+     |
+     v
+Flask Backend
+     |
+     v
+Database / API Logic
+     |
+     v
+JSON Response
+     |
+     v
+Update Frontend Interface
+```
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/FRONTEND_API_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="View integration project"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00A6ED?style=for-the-badge&logo=github&logoColor=white" alt="View frontend integration project"/>
 </a>
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-<h3 align="center">📊 Data Analytics Dashboard</h3>
+### 03. AI Business Detective — Business Performance Analysis
 
 <div align="center">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Business%20Analytics-7F00FF?style=flat-square" alt="Business analytics"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Data visualization"/>
+<img src="https://img.shields.io/badge/AI-Exploration-00D4FF?style=flat-square" alt="AI exploration"/>
+
 </div>
 
-A data analytics project concept focused on understanding datasets, finding trends, and presenting useful business insights.
+**Project Overview**
+
+An AI-focused business performance analysis project concept designed to help users explore business data, understand performance trends, and identify useful insights.
 
 **Potential Features**
-- 📁 Import and organize datasets.
-- 🧹 Clean and prepare data.
-- 🔎 Analyze trends using SQL.
-- 📈 Build visual dashboards.
-- 💡 Present findings and recommendations.
 
-**Technologies:** SQL, Python, Power BI, Streamlit.
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/DATA_ANALYTICS_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="View analytics project"/>
-</a>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 AI Business Detective</h3>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Data%20Analysis-Business%20Insights-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-Analytics-A855F7?style=flat-square"/>
-</div>
-
-A business performance analysis system concept designed to explore business data and identify patterns that may support better decisions.
-
-**Potential Features**
 - 📊 Analyze business performance metrics.
-- 📉 Identify changes in sales and revenue.
-- 🔍 Detect trends and unusual patterns.
-- 💡 Generate actionable business insights.
-- 📈 Present findings through dashboards.
+- 📈 Explore sales and revenue trends.
+- 🔎 Identify patterns in business data.
+- 💡 Present data-driven insights.
+- 📉 Compare performance across categories.
+- 📋 Build reports and dashboards.
+- 🤖 Explore AI-assisted analysis and explanations.
 
-**Potential Technologies:** Python, SQL, Power BI, Streamlit, AI tools.
+**Potential Technology Stack**
+
+`Python` `SQL` `Power BI` `Streamlit` `AI Tools`
+
+**Potential Workflow**
+
+```text
+Business Dataset
+       |
+       v
+Data Preparation
+       |
+       v
+Data Analysis
+       |
+       v
+Identify Trends and Patterns
+       |
+       v
+Visualize Results
+       |
+       v
+Generate Business Insights
+```
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME/AI_BUSINESS_DETECTIVE_REPOSITORY">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-C084FC?style=for-the-badge&logo=github&logoColor=black" alt="View AI Business Detective project"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="View AI Business Detective project"/>
 </a>
 
 </div>
 
-</td>
-</tr>
-</table>
-
-> **Note:** The project descriptions above are based on your development topics and project concepts. Replace the example repository links and update the features to match what you have actually implemented before publishing.
-
 ---
 
-<h2 align="center">📈 GITHUB ANALYTICS</h2>
+## 🧩 My Development Approach
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A78BFA&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&background=0D1117&ring=C084FC&fire=A78BFA&currStreakLabel=C084FC&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C084FC&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
+| Step | Activity | Objective |
+|---|---|---|
+| 01 | Understand | Identify the problem |
+| 02 | Plan | Design a practical solution |
+| 03 | Develop | Write clean, understandable code |
+| 04 | Integrate | Connect components and services |
+| 05 | Test | Check expected behavior |
+| 06 | Debug | Identify and fix issues |
+| 07 | Improve | Refine functionality and structure |
+| 08 | Document | Explain the project and its usage |
 
 </div>
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+## 📚 Learning Roadmap
+
+<div align="center">
+
+```text
+             PYTHON FUNDAMENTALS
+                     |
+                     v
+          OBJECT-ORIENTED PROGRAMMING
+                     |
+                     v
+              SQL AND DATABASES
+                     |
+                     v
+              FLASK BACKEND
+                     |
+                     v
+               REST API CRUD
+                     |
+                     v
+         FRONTEND AND BACKEND INTEGRATION
+                     |
+                     v
+             PROJECT DEVELOPMENT
+                     |
+                     v
+           DATA ANALYTICS AND AI
+                     |
+                     v
+             PROFESSIONAL GROWTH
+```
+
+</div>
+
+### Current Learning Goals
+
+- [ ] Strengthen Python fundamentals and OOP.
+- [ ] Improve SQL and PostgreSQL skills.
+- [ ] Build complete CRUD-based APIs.
+- [ ] Improve API testing and error handling.
+- [ ] Connect frontend interfaces to backend services.
+- [ ] Build responsive web interfaces.
+- [ ] Create data analysis dashboards.
+- [ ] Improve Git and GitHub workflows.
+- [ ] Document and publish practical projects.
+- [ ] Explore deployment and production practices.
+
+---
+
+## 📊 Skills and Areas of Interest
+
+| Area | Focus |
+|---|---|
+| Python | Programming, functions, modules, OOP |
+| Flask | Routing, request handling, JSON responses |
+| REST APIs | CRUD, HTTP methods, status codes |
+| PostgreSQL | Database operations, SQL queries |
+| Frontend | HTML, CSS, JavaScript |
+| Integration | Connecting UI and API services |
+| Data Analytics | Data exploration and reporting |
+| Visualization | Dashboards and interactive reports |
+| AI | Exploring practical AI applications |
+| GitHub | Project documentation and version control |
+
+---
+
+## 💼 Experience
+
+> Add your real work experience here. No employment history has been assumed in this template.
+
+### YOUR JOB TITLE — YOUR COMPANY
+
+**Duration:** YOUR START DATE – YOUR END DATE
+
+- Describe your actual responsibilities.
+- Mention tools and technologies you used.
+- Explain the work you contributed to.
+- Include measurable results only when accurate.
+
+If you have no professional experience yet, you can replace this section with **Practical Learning and Project Experience** and describe your actual projects.
+
+---
+
+## 🎓 Internship Experience
+
+> Add this section only if you have completed an internship.
+
+### YOUR INTERNSHIP ROLE — YOUR ORGANIZATION
+
+**Duration:** YOUR INTERNSHIP DATES
+
+- Describe the technical tasks you performed.
+- Mention the technologies you used.
+- Explain what you learned.
+- Include project contributions where applicable.
+
+---
+
+## 🏆 Achievements and Certifications
+
+> Add only achievements and certificates you have actually earned.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Certifications-Add%20Your%20Certificates-7F00FF?style=for-the-badge" alt="Certifications placeholder"/>
+
+</div>
+
+- **Achievement:** YOUR_ACHIEVEMENT
+- **Certification:** YOUR_CERTIFICATION
+- **Course:** YOUR_COMPLETED_COURSE
+- **Recognition:** YOUR_RECOGNITION
+
+Remove any line that does not apply.
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
@@ -375,54 +588,115 @@ A business performance analysis system concept designed to explore business data
 
 </div>
 
-To enable the snake animation, create a GitHub Actions workflow in your profile repository that generates and publishes the `output` branch. The image will not appear until that workflow has been configured and run successfully.
+To enable this animation, configure a GitHub Actions workflow that generates the contribution snake SVG and publishes it to an `output` branch. The image will not appear until the workflow has been set up and run successfully.
 
 ---
 
-<h2 align="center">💡 BEYOND THE CODE</h2>
+## 💡 My Developer Mindset
 
 <div align="center">
 
-| 💜 Principle | 🚀 What It Means |
-|---|---|
-| 📚 Continuous Learning | Keep exploring new concepts and tools |
-| 🧩 Problem Solving | Break complex tasks into smaller steps |
-| 🛠️ Hands-On Practice | Turn concepts into working projects |
-| 🔍 Debugging | Understand errors instead of ignoring them |
-| 🤝 Collaboration | Learn from other developers |
-| 📈 Improvement | Make every project better than the last |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Understand+the+Problem;Write+Clean+Code;Test+Every+Endpoint;Learn+From+Errors;Build+Practical+Solutions;Improve+Every+Day" alt="Developer mindset animation"/>
 
 </div>
 
-### ⚡ My Developer Mindset
+```text
+        IDENTIFY THE PROBLEM
+                 |
+                 v
+          UNDERSTAND IT
+                 |
+                 v
+          PLAN A SOLUTION
+                 |
+                 v
+             WRITE CODE
+                 |
+                 v
+           TEST AND DEBUG
+                 |
+                 v
+          REVIEW THE RESULT
+                 |
+                 v
+          IMPROVE THE CODE
+                 |
+                 v
+           KEEP LEARNING
+```
 
-> "First, make it work. Then, understand it. Finally, make it better."
-
-I believe consistent practice, curiosity, and practical experience are essential to becoming a better developer.
+> "Every error is an opportunity to understand the system better."
 
 ---
 
-<h2 align="center">🌐 CONNECT WITH ME</h2>
+## 🌱 What I Want to Build
 
 <div align="center">
 
+| Backend Development | Data Analytics | AI Exploration |
+|---|---|---|
+| REST API Applications | Data Analysis Projects | AI-Assisted Tools |
+| Database-Driven Systems | Interactive Dashboards | Business Insights |
+| CRUD Applications | SQL Reports | Practical AI Workflows |
+| Frontend Integrations | Data Visualization | Intelligent Applications |
+
+</div>
+
+---
+
+## 🎯 Career Interests
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python developer"/>
+<img src="https://img.shields.io/badge/Backend%20Developer-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Backend developer"/>
+<img src="https://img.shields.io/badge/Data%20Analyst-7F00FF?style=for-the-badge" alt="Data analyst"/>
+<img src="https://img.shields.io/badge/Software%20Developer-0072FF?style=for-the-badge" alt="Software developer"/>
+
+<br/><br/>
+
+**Career Goal:** Build practical applications, improve technical skills, and contribute to meaningful software and data projects.
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-SEND%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+<img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20WORK-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="Explore GitHub"/>
-</a>
+</div>
 
-<br/><br/>
+---
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20COLLABORATION-7C3AED?style=for-the-badge" alt="Learning and collaboration"/>
-</a>
+## 👤 Quick Profile Summary
+
+<div align="center">
+
+| Profile Detail | Information |
+|---|---|
+| Name | Kanishka |
+| Main Programming Language | Python |
+| Backend Framework | Flask |
+| Database | PostgreSQL |
+| API Development | REST APIs and CRUD |
+| Frontend Technologies | HTML, CSS, JavaScript |
+| Development Focus | Backend and Frontend Integration |
+| Additional Interest | Data Analytics |
+| Project Focus | Customer Management and API Integration |
+| Career Interests | Python Development, Backend Development, Data Analytics |
 
 </div>
 
@@ -430,22 +704,22 @@ I believe consistent practice, curiosity, and practical experience are essential
 
 <div align="center">
 
-<h2>✨ THANKS FOR VISITING MY PROFILE ✨</h2>
+## ✨ THANK YOU FOR VISITING MY PROFILE ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Solving+Problems+%F0%9F%A7%A9;Keep+Growing+%F0%9F%8C%B1;One+Project+At+A+Time+%E2%9C%A8" alt="Animated closing message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Solving+Problems+%F0%9F%A7%A9;Keep+Growing+%F0%9F%8C%B1;One+Project+At+A+Time+%E2%9C%A8" alt="Closing animation"/>
 
 <br/><br/>
 
-**💜 Code with curiosity. Build with purpose. Grow with consistency.**
+**LEARN. BUILD. DEBUG. IMPROVE. REPEAT.**
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow my GitHub journey"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,40:7C3AED,75:4C1D95,100:09090B&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D4FF,50:302B63,100:090979&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
