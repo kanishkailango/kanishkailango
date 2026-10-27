@@ -231,50 +231,6 @@ I'm interested in **data analytics, Python development, backend development, and
 </tr>
 </table>
 
----
-
-### 🌐 Frontend + Backend Integration
-
-Connect a web interface to backend API endpoints.
-
-**Key features**
-- Dynamic data tables
-- Forms and submissions
-- CRUD operations
-- API integration
-- Validation messages
-- Responsive interface
-
-**Tech stack:** HTML, CSS, JavaScript, Flask.
-
-<a href="https://github.com/YOUR_USERNAME/frontend-backend-integration">📂 Project Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Business Data Analysis
-
-Explore datasets to understand business performance.
-
-**Key features**
-- Data cleaning
-- Exploratory analysis
-- SQL reporting
-- KPI calculations
-- Category comparisons
-- Data visualization
-
-**Tech stack:** Python, SQL, Pandas, Power BI.
-
-<a href="https://github.com/YOUR_USERNAME/business-data-analysis">📂 Project Repository</a>
-
-</td>
-</tr>
-</table>
-
-> ⚠️ Replace the example repository links with your real projects. Do not present planned features as completed work.
-
----
 
 ## 🏗️ Application Architecture
 
