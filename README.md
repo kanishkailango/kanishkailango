@@ -1,4 +1,4 @@
-
+f
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09091B,50:4C1D95,100:06B6D4&height=220&section=header&text=KANISHKA&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20PYTHON%20DEVELOPER&descAlignY=58&descSize=18" alt="Neon anime developer header"/>
@@ -232,57 +232,6 @@ I'm interested in **data analytics, Python development, backend development, and
 </table>
 
 ---
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔎 AI Business Detective
-
-<img src="https://img.shields.io/badge/Business-Analytics-7C3AED?style=flat-square" alt="Business analytics"/>
-
-Analyse business performance and discover insights from data.
-
-**Key features**
-- Revenue and sales analysis
-- Product performance
-- Customer segmentation
-- KPI tracking
-- Trend analysis
-- Interactive dashboards
-
-**Tech stack:** Python, SQL, Power BI.
-
-<a href="https://github.com/YOUR_USERNAME/ai-business-detective">📂 Project Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 Customer Management API
-
-<img src="https://img.shields.io/badge/Backend-Development-009688?style=flat-square" alt="Backend development"/>
-
-Build an API for managing customer records.
-
-**Key features**
-- Create customer records
-- Retrieve customer data
-- Update existing records
-- Delete records
-- JSON responses
-- Request validation
-- Error handling
-
-**Tech stack:** Python, Flask, PostgreSQL.
-
-<a href="https://github.com/YOUR_USERNAME/customer-management-api">📂 Project Repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 🌐 Frontend + Backend Integration
 
